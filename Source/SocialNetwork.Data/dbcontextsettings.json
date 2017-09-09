@@ -1,0 +1,9 @@
+{
+  "name": "socialnetwork",
+  "private": true,
+  "dependencies": {
+  },
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=.;Database=SocialNetwork;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
